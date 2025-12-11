@@ -1,39 +1,24 @@
+# FOSSLight
+
+![](https://img.shields.io/badge/license-GPL3.0-blue)
+
+<img src="https://user-images.githubusercontent.com/50347670/115320108-287aeb80-a1bc-11eb-869b-5ef9431ac3d3.png" width="96">
+
 ---
-layout: base
-hide_image: false
-cover: false
-permalink: /
----
-<div style="text-align: center;">
 
-<h2 style="font-size: 500%"><img src="assets/img/logo5.png" title="FOSSLight Logo" width="60px">  FOSSLight  </h2>
-<h5>오픈 소스를 사용하여 소프트웨어를 개발하고 배포할 때, <br>오픈 소스 거버닝을 위해 FOSSLight을 활용하실 수 있습니다.</h5>
-<a href="/fosslight"><img src="assets/img/fosslight_project.png" title="FOSSLight"></a>
-<h5>FOSSLight Scanner는 소스코드, 바이너리, 디펜던시에 대한 Open Source 분석을 수행하고,<br>그 결과 추출 가능한 오픈 소스 정보를 포함한 보고서를 생성합니다.<br>FOSSLight Hub는 오픈 소스, 오픈 소스 라이선스, 그리고 보안취약점까지 관리해줌으로써<br>오픈 소스 라이선스 의무사항을 준수하고 보안취약점으로부터 안전하게 사용할 수 있습니다.<br>또한 프로젝트 별 BOM(Bill Of Materials) 관리,<br>오픈 소스 라이선스의 의무사항 및 보안취약점 조회 기능을 제공하여<br>OSC(Open Source Compliance) Process를 수행할 수 있도록 도와줍니다.</h5>
-<br/>
-<div class="home_buntton">
-<button class="learn-more" onclick="location.href='fosslight'">
-  <span class="circle" aria-hidden="true">
-    <span class="icon arrow"></span>
-  </span>
-  <span class="button-text">Learn More</span>
-</button>
-</div>
+## Homepage
 
-<br/>
-<br/>
-<br/>
-<hr style="width:100%; border:outset 1px rgb(191, 13, 63);">
-<h2 style="color: rgb(191, 13, 63); text-align: center;">Companies and Organizations Using FOSSLight</h2>
-<a href="https://www.lg.co.kr/"><img src="assets/img/company/lg-logo.jpg" title="LG Electronics" width="180px" style="margin:5px px;"></a>
-<a href="https://www.etri.re.kr/"><img src="assets/img/company/etri-logo.jpg" title="ETRI" width="250px" style="margin:0px 15px;"></a>
-<br>
-<a href="https://engineering.linecorp.com/ko"><img src="assets/img/company/line-logo.png" title="LINE" width="150px" style="margin:10px 30px;"></a>
-<a href="https://www.hyundai-autoever.com/kor/main/index.do"><img src="assets/img/company/hyundaiautoeve-logo.png" title="Hyundai AutoEver" width="150px" style="margin:0px 15px;"></a>
-<a href="https://www.kakaobank.com/"><img src="assets/img/company/kakaobank.png" title="kakaobank" width="250px" style="margin:0px 15px;"></a>
-<a href="https://www.hancom.com/main/main.do"><img src="assets/img/company/HANCOM_Logo.png" title="Hancom" width="250px" style="margin:0px 15px;"></a>
-</div>
+FOSSLight Open Source Project를 소개하는 홈페이지입니다.
+![](assets/img/fosslight_homepage.PNG)
 
-<br/>
-<br/>
-<br/>
+## License
+
+Copyright (c) 2021 LG Electronics
+
+- 소스코드 : [GPL-3.0](LICNESE.md).
+- Feature icons : [Icons8](https://icons8.com/icon)
+
+Original theme
+
+- 해당 테마는 [Hydejack](https://github.com/hydecorp/hydejack)을 사용하였습니다.
+  - License : [LICENSE](LICENSE.md) and [NOTICE](NOTICE.md).
