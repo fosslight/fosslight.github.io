@@ -10,7 +10,7 @@ FOSSLight Hub 버전 2.4.0이 릴리즈되었습니다. 이번 업데이트에�
 
 
 **⭐️Security**  
-Overview 탭이 새롭게 추가되어 프로젝트의 보안 취약점 통계 및 차트를 한눈에 확인할 수 있습니다. Need to resolve, Full discovered 탭에는 누락되었덛ㄴ Affected SW Version Range 컬럼이 추가되어 취약점 영향 범위를 보다 명확히 파악할 수 있습니다.
+Overview 탭이 새롭게 추가되어 프로젝트의 보안 취약점 통계 및 차트를 한눈에 확인할 수 있습니다. Need to resolve, Full discovered 탭에는 누락되었던 Affected SW Version Range 컬럼이 추가되어 취약점 영향 범위를 보다 명확히 파악할 수 있습니다.
 
 **⭐️Project**  
 Distribution Type에 오픈소스 공개 및 기여용인 Contribution과 내부 검토 및 사전 점검용인 Self-Check 유형이 추가되었습니다.
