@@ -21,3 +21,15 @@ TBD
 
 ### Event 🎉
 04/10까지 사전 등록하시어 참가 선물과 점심 샌드위치 신청하세요🎁
+
+### 사전 등록 링크
+https://docs.google.com/forms/d/e/1FAIpQLSclhOMw2xHqnBcK43j4CDNwLcIW51W-nfCSVCViUQVKrn_iHw/viewform?usp=publish-editor
+
+
+<img width="1583" height="2835" alt="FOSSLight_Community_Day_포스터" src="https://github.com/user-attachments/assets/e0f351f2-c0a0-4d18-811f-27075f1ab77f" />
+
+
+
+
+
+
