@@ -16,8 +16,8 @@ hide_last_modified: true
 [사전 등록 바로가기 (클릭)](https://docs.google.com/forms/d/e/1FAIpQLSclhOMw2xHqnBcK43j4CDNwLcIW51W-nfCSVCViUQVKrn_iHw/viewform?usp=publish-editor)
 
 ### Agenda
- - 초청발표자 1: 조정원 (LG AI연구원, 변호사)
- - 초청발표자 2: 이서연 (라인플러스)
+ - 초청발표자 1: 조정원 님 (LG AI연구원, 변호사)
+ - 초청발표자 2: 이서연 님 (라인플러스)
  - 자세한 타임테이블은 추후 확정되는대로 공지하겠습니다.
 
 ### 장소 후원 : Nipa 정보통신산업진흥원    
