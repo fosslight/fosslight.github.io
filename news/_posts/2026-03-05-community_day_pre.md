@@ -20,7 +20,9 @@ hide_last_modified: true
  - 초청발표자 : 기대해주십시오!     
  - 자세한 타임테이블은 추후 확정되는대로 공지하겠습니다.     
 
-<img width="633" height="1134" alt="FOSSLight_Community_Day_포스터_리사이즈" src="https://github.com/user-attachments/assets/fcfc0ac2-a63b-4d70-ac4c-60e55795552d" />
+
+<img width="633" height="1134" alt="제5회FOSSLight_커뮤니티데이_포스터_Final_발표자포함" src="https://github.com/user-attachments/assets/ab19acb0-2470-4cef-b4c5-076fde719471" />
+
 
 ### 장소 후원 : Nipa 정보통신산업진흥원, OpenUp  
 
