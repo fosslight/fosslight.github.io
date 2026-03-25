@@ -25,19 +25,19 @@ hide_last_modified: true
 |Time|제목|발표자|
 |--- | --- |--- |
 |09:50 ~ 10:00|행사 등록|  | 
-|10:00 ~ 12:00|FOSSLight 소개 및 사용 가이드|미정 (LG전자)| 
+|10:00 ~ 12:00|FOSSLight 소개 및 사용 가이드|LG전자| 
 |12:00 ~ 13:30|점심 시간| 
-|13:30 ~ 13:45|오프닝|  미정(LG전자)| 
-|13:45 ~ 14:15|요즘 오픈 소스 세상 및 FOSSLight 소식| [박원재](https://www.linkedin.com/in/wonjae-park/) (LG전자)| 
-|14:15 ~ 14:35|코딩 머글이 FOSSLight를 고쳤어요!|이서연(라인플러스)| 
-|14:35 ~ 14:55|FL Hub + FL Scanner CI/CD 연동 활용 사례|[김소임](https://www.linkedin.com/in/soim-kim-093036216/) (LG전자)|
+|13:30 ~ 13:45|오프닝| 
+|13:45 ~ 14:15|요즘 오픈 소스 세상 및 FOSSLight 소식|LG전자| 
+|14:15 ~ 14:35|코딩 머글이 FOSSLight를 고쳤어요!|이서연 (라인플러스)| 
+|14:35 ~ 14:55|FL Hub + FL Scanner CI/CD 연동 활용 사례|LG전자|
 |14:55 ~ 15:15|Coffee Break|
-|15:15 ~ 15:30|FOSSLight Hub Updates|민경선 (LG전자)|
-|15:30 ~ 15:50|FOSSLight Hub의 보안취약점 관리 |석지영 (LG전자)|
+|15:15 ~ 15:30|FOSSLight Hub Updates|LG전자|
+|15:30 ~ 15:50|FOSSLight Hub의 보안취약점 관리 |LG전자|
 |15:50 ~ 16:05|Coffee break|
 |16:05 ~ 16:35|생성형 AI 학습데이터 분쟁과 AI-BOM기반 투명성 컴플라이언스|[조정원](https://www.linkedin.com/in/jeongwon-jo-76b198108/) (LG AI연구원)|
-|16:35 ~ 16:50|FOSSLight Hub 오픈소스 vs 엔터프라이즈|미정 (LG전자)|
-|16:45 ~ 17:00|클로징|미정 (LG전자)|
+|16:35 ~ 16:50|FOSSLight Hub 오픈소스 vs 엔터프라이즈|LG전자|
+|16:45 ~ 17:00|클로징|
 
 <div class="datatable-end"></div>   
 
