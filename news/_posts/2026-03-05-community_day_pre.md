@@ -13,7 +13,7 @@ hide_last_modified: true
  - 오전/오후 세션 선택적 참석 가능
  
 ### 사전 등록 링크
-04/17까지 사전 등록하시어 참가 선물과 점심 샌드위치 신청하세요🎁.       
+04/22까지로 연장되었습니다. 사전 등록하시어 참가 선물과 점심 샌드위치 신청하세요🎁.       
 [사전 등록 바로가기 (클릭)](https://docs.google.com/forms/d/e/1FAIpQLSclhOMw2xHqnBcK43j4CDNwLcIW51W-nfCSVCViUQVKrn_iHw/viewform?usp=publish-editor)
 
 
