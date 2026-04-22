@@ -80,6 +80,12 @@ FOSSLight Scanner 프로젝트는 다른 오픈 소스 프로젝트를 **상속*
 - [**FOSSLight Yocto Scanner**](https://github.com/fosslight/fosslight_yocto_scanner) (License: [**Apache-2.0**](https://github.com/fosslight/fosslight_yocto_scanner/blob/main/LICENSE))
 - [**FOSSLight Android Scanner**](https://github.com/fosslight/fosslight_android_scanner) (License: [**Apache-2.0**](https://github.com/fosslight/fosslight_android_scanner/blob/main/LICENSE))
 
+## Release Note
+
+FOSSLight Scanner 각 버전의 주요 변경사항을 확인할 수 있습니다.
+
+[**📋 Scanner Release Note 보기**](/scanner/release-note/)
+
 <br/>
 <br/>
 <div class="right"><a href="https://icons8.com/icon">&lt;Icons by Icons8&gt;</a></div>
