@@ -28,7 +28,7 @@ hide_last_modified: true
 |10:00 ~ 12:00|FOSSLight 소개 및 사용 가이드|[김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)| 
 |12:00 ~ 13:30|점심 시간| 
 |13:30 ~ 13:40|오프닝| 
-|13:40 ~ 14:10|요즘 오픈 소스 세상 및 FOSSLight 소식|[박원재](https://www.linkedin.com/in/wonjae-park/)(LG전자)| 
+|13:40 ~ 14:10|요즘 오픈 소스 세상|[박원재](https://www.linkedin.com/in/wonjae-park/)(LG전자)| 
 |14:10 ~ 14:30|코딩 머글이 FOSSLight를 고쳤어요!|이서연 (라인플러스)| 
 |14:30 ~ 14:50|Coffee Break|
 |14:50 ~ 15:10|FOSSLight Scanner + Hub CI/CD 연동 활용 사례|[김소임](https://www.linkedin.com/in/soim-kim-093036216/)(LG전자)|
