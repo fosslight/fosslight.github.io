@@ -25,7 +25,7 @@ hide_last_modified: true
 |Time|제목|발표자|
 |--- | --- |--- |
 |09:50 ~ 10:00|행사 등록|  | 
-|10:00 ~ 12:00|FOSSLight 소개 및 사용 가이드|[김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)| 
+|10:00 ~ 12:00|FOSSLight 소개 및 사용 가이드|민경선(LG전자)| 
 |12:00 ~ 13:30|점심 시간| 
 |13:30 ~ 13:40|오프닝| 
 |13:40 ~ 14:10|요즘 오픈 소스 세상|[박원재](https://www.linkedin.com/in/wonjae-park/)(LG전자)| 
@@ -35,7 +35,7 @@ hide_last_modified: true
 |15:10 ~ 15:30|FOSSLight Hub의 보안취약점 관리 |석지영(LG전자)|
 |15:30 ~ 15:50|Coffee break|
 |15:50 ~ 16:20|생성형 AI 학습데이터 분쟁과 AI-BOM기반 투명성 컴플라이언스|[조정원](https://www.linkedin.com/in/jeongwon-jo-76b198108/) (LG AI연구원)|
-|16:20 ~ 16:50|FOSSLight Hub 오픈소스 vs 엔터프라이즈|민경선(LG전자)|
+|16:20 ~ 16:50|FOSSLight Hub 오픈소스 vs 엔터프라이즈|[김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)|
 |16:50 ~ 17:00|클로징|
 
 <div class="datatable-end"></div>   
