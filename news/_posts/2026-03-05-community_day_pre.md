@@ -31,10 +31,10 @@ hide_last_modified: true
 |13:40 ~ 14:10|요즘 오픈 소스 세상|[박원재](https://www.linkedin.com/in/wonjae-park/)(LG전자)| 
 |14:10 ~ 14:30|코딩 머글이 FOSSLight를 고쳤어요!|이서연 (라인플러스)| 
 |14:30 ~ 14:50|Coffee Break|
-|14:50 ~ 15:10|FOSSLight Scanner + Hub CI/CD 연동 활용 사례|[김소임](https://www.linkedin.com/in/soim-kim-093036216/)(LG전자)|
-|15:10 ~ 15:30|FOSSLight Hub의 보안취약점 관리 |석지영(LG전자)|
-|15:30 ~ 15:50|Coffee break|
-|15:50 ~ 16:20|생성형 AI 학습데이터 분쟁과 AI-BOM기반 투명성 컴플라이언스|[조정원](https://www.linkedin.com/in/jeongwon-jo-76b198108/) (LG AI연구원)|
+|14:50 ~ 15:20|생성형 AI 학습데이터 분쟁과 AI-BOM기반 투명성 컴플라이언스|[조정원](https://www.linkedin.com/in/jeongwon-jo-76b198108/) (LG AI연구원)|
+|15:20 ~ 15:40|FOSSLight Scanner + Hub CI/CD 연동 활용 사례|[김소임](https://www.linkedin.com/in/soim-kim-093036216/)(LG전자)|
+|15:40 ~ 16:00|Coffee break|
+|16:00 ~ 16:20|FOSSLight Hub의 보안취약점 관리 |석지영(LG전자)|
 |16:20 ~ 16:50|FOSSLight Hub 오픈소스 vs 엔터프라이즈|[김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)|
 |16:50 ~ 17:00|클로징|
 
