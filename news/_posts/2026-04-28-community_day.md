@@ -26,7 +26,7 @@ hide_last_modified: true
 - [코딩 머글이 FOSSLight를 고쳤어요! - 이서연(라인플러스)](../../assets/files/260428/260428_FL_Day_코딩머글이FOSSLight를고쳤어요_이서연.pdf)
 - [생성형 AI 학습데이터 분쟁과 AI-BOM기반 투명성 컴플라이언스 - 조정원(LG AI연구원)](../../assets/files/260428/260428_FL_Day_생성형AI학습데이터분쟁과AIBOM기반투명성컴플라이언스_조정원.pdf)
 - [FOSSLight Scanner + Hub CI/CD 연동 활용 사례 - 김소임(LG전자)](../../assets/files/260428/260428_FL_Day_FOSSLight_Scanner_Hub_연동사례_김소임.pdf)
-- [FFOSSLight Hub의 보안취약점 관리 - 석지영(LG전자)](../../assets/files/260428/260428_FL_Day_FOSSLightHub의보안취약점관리_석지영.pdf)
+- [FOSSLight Hub의 보안취약점 관리 - 석지영(LG전자)](../../assets/files/260428/260428_FL_Day_FOSSLightHub의보안취약점관리_석지영.pdf)
 - [FOSSLight Hub 오픈소스 vs 엔터프라이즈- 김경애(LG전자)](../../assets/files/260428/260428_FL_Day_오픈소스대Enterprise_김경애.pdf)
        
 
