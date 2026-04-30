@@ -30,8 +30,8 @@ hide_last_modified: true
 - [FOSSLight Hub 오픈소스 vs 엔터프라이즈- 김경애(LG전자)](../../assets/files/260428/260428_FL_Day_오픈소스대Enterprise_김경애.pdf)
        
 
-### 장소 후원 : Nipa 정보통신산업진흥원, 오픈업  
-### 다과 후원 : Nipa 정보통신산업진흥원, 오픈업
+### 장소 및 다과 지원 : Nipa 정보통신산업진흥원, 오픈업  
+
 
 ### 사진
  ![](../../assets/img/news/260428/26_fl_day_01.jpeg)
