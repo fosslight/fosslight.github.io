@@ -35,12 +35,16 @@ hide_last_modified: true
 ### 사진
  ![](../../assets/img/news/260428/26_fl_day_01.jpeg)
  ![](../../assets/img/news/260428/26_fl_day_02.jpg)
+ ![](../../assets/img/news/260428/26_fl_day_03.JPG)
+ ![](../../assets/img/news/260428/26_fl_day_04.jpg)
  ![](../../assets/img/news/260428/26_fl_day_05.jpg)
  ![](../../assets/img/news/260428/26_fl_day_06.JPG)
  ![](../../assets/img/news/260428/26_fl_day_07.JPG)
  ![](../../assets/img/news/260428/26_fl_day_08.JPG)
+ ![](../../assets/img/news/260428/26_fl_day_08-1.JPG)
  ![](../../assets/img/news/260428/26_fl_day_09.JPG)
  ![](../../assets/img/news/260428/26_fl_day_10.JPG)
  ![](../../assets/img/news/260428/26_fl_day_11.JPG)
- ![](../../assets/img/news/260428/26_fl_day_12.jpg)
+ ![](../../assets/img/news/260428/26_fl_day_12.JPG)
+ ![](../../assets/img/news/260428/26_fl_day_13.JPG)
 
