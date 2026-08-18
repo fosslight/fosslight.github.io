@@ -14,7 +14,7 @@ hide_last_modified: true
  
 ### 사전 등록 링크
 10/15까지 사전등록 가능합니다. 사전 등록하시어 참가 선물과 점심 샌드위치 신청하세요🎁.       
-[사전 등록 바로가기 (클릭)](https://docs.google.com/forms/d/e/1FAIpQLSclhOMw2xHqnBcK43j4CDNwLcIW51W-nfCSVCViUQVKrn_iHw/viewform?usp=publish-editor)
+[사전 등록 바로가기 (클릭)](https://forms.gle/DM2dnKJanE2yVbBH9)
 
 
 ### Agenda
