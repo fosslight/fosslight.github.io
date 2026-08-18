@@ -42,7 +42,7 @@ hide_last_modified: true
 
 
 
-<img width="633" height="1134" alt="제6회FOSSLight_커뮤니티데이_포스터_draft" src="/assets/img/news/261028/26_fl_day_poster.png" />
+![제6회FOSSLight_커뮤니티데이_포스터_draft](../../assets/img/news/261028/26_fl_day_poster.png)
 
 ### 장소 후원 : 미정
 
