@@ -18,27 +18,7 @@ hide_last_modified: true
 
 
 ### Agenda
-* agenda는 일부 수정될 수 있습니다.
-
-<div class="datatable-begin"></div>
-
-|Time|제목|발표자|
-|--- | --- |--- |
-|09:50 ~ 10:00|행사 등록|  | 
-|10:00 ~ 12:00|FOSSLight 소개 및 사용 가이드|민경선(LG전자)| 
-|12:00 ~ 13:30|점심 시간| 
-|13:30 ~ 13:40|오프닝| 
-|13:40 ~ 14:10|요즘 오픈 소스 세상|[박원재](https://www.linkedin.com/in/wonjae-park/)(LG전자)| 
-|14:10 ~ 14:30|미정|미정| 
-|14:30 ~ 14:50|Coffee Break|
-|14:50 ~ 15:20|미정|미정|
-|15:20 ~ 15:40|FOSSLight Scanner + Hub CI/CD 연동 활용 사례|[김소임](https://www.linkedin.com/in/soim-kim-093036216/)(LG전자)|
-|15:40 ~ 16:00|Coffee break|
-|16:00 ~ 16:20|FOSSLight Hub의 보안취약점 관리 |석지영(LG전자)|
-|16:20 ~ 16:50|FOSSLight Hub 오픈소스 vs 엔터프라이즈|[김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)|
-|16:50 ~ 17:00|클로징|
-
-<div class="datatable-end"></div>   
+* agenda는 추후 확정 후 공개될 예정입니다.
 
 
 
