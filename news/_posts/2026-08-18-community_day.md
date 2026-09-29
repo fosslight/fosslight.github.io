@@ -4,7 +4,7 @@ title: 제6회 FOSSLight Community Day 예고
 description: >
   2026.10.28 제6회 FOSSLight Community Day가 열립니다.
 hide_last_modified: true
----s
+---
 
 ## 제6회 FOSSLight Community Day 예고
  - 일시 : 2026.10.28 수요일
