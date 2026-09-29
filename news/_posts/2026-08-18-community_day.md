@@ -22,7 +22,7 @@ hide_last_modified: true
 
 
 ### Agenda
-* agenda는 추후 확정 후 공개될 예정입니다.
+* agenda는 변경 될 수 있으니, 양해 부탁드리겠습니다.
 
 <div class="datatable-begin"></div>
 
