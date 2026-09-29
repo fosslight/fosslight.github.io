@@ -26,23 +26,23 @@ hide_last_modified: true
 
 <div class="datatable-begin"></div>
 
-|Time|제목|발표자|
-|--- | --- |--- |
-|09:50 ~ 10:00|행사 등록| | 
-|10:00 ~ 10:40|FOSSLight Scanner 소개 및 시연|[김소임](https://www.linkedin.com/in/soim-kim-093036216/)(LG전자)| 
-|10:40 ~ 11:00|Coffee Break||
-|11:00 ~ 12:00|FOSSLight Hub 소개 및 시연|이혜인(LG전자)| 
-|12:00 ~ 13:10|점심 시간|| 
-|13:10 ~ 13:20|오프닝| [김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)| 
-|13:20 ~ 13:40|FOSSLight Scanner Update 소개|박원재(LG전자)| 
-|13:40 ~ 14:00|FOSSLight Scanner GUI 소개|방재권(LG전자)| 
-|14:00 ~ 14:30|SBOM 규제 트랜드 변화|TBD| 
-|14:30 ~ 14:50|Coffee Break|| 
-|14:50 ~ 15:30|Hub 취약점 강화 (OSV 확장)|최혜성(LG전자)|
-|15:30 ~ 16:00|FOSSLight 사용자 경험 공유|TBD|
-|16:00 ~ 16:20|FOSSLight Scanner FAQ|정우철(LG전자)|
-|16:20 ~ 16:40|FOSSLight Hub FAQ|민경선(LG전자)|
-|16:40 ~ 16:50|클로징| [김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)|
+|Time|제목|
+|--- | --- |
+|09:50 ~ 10:00|행사 등록| 
+|10:00 ~ 10:40|누구나 따라할 수 있는 FOSSLight Scanner 시연| 
+|10:40 ~ 11:00|Coffee Break|
+|11:00 ~ 12:00|누구나 따라할 수 있는 FOSSLight Hub 시연| 
+|12:00 ~ 13:00|점심 시간| 
+|13:00 ~ 13:20|FOSSLight Scanner Update 사항 소개| 
+|13:20 ~ 13:40|보기쉬운 UI를 입힌 FOSSLight Scanner 소개| 
+|13:40 ~ 14:10|변화하는 SBOM 규제 트랜드| 
+|14:10 ~ 14:30|Coffee Break| 
+|14:30 ~ 15:10|강화된 FOSSLight Hub 취약점 검출 소개|
+|15:10 ~ 15:40|FOSSLight 사용자 경험 공유|
+|15:40 ~ 16:00|Coffee Break|
+|16:00 ~ 16:20|무엇이든 물어보세요, FOSSLight Scanner 편|
+|16:20 ~ 16:40|무엇이든 물어보세요, FOSSLight Hub 편|
+|16:40 ~ 16:50|클로징|
 
 <div class="datatable-end"></div>
 
