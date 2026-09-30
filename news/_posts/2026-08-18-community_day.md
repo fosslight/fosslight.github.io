@@ -29,7 +29,7 @@ hide_last_modified: true
 |Time|제목|
 |--- | --- |
 |09:50 ~ 10:00|행사 등록| 
-|10:00 ~ 10:40|누구나 따라할 수 있는 FOSSLight Scanner(시연)| 
+|10:00 ~ 10:40|실제 프로젝트로 시연하는 FOSSLight Scanner| 
 |10:40 ~ 11:00|Coffee Break|
 |11:00 ~ 12:00|누구나 따라할 수 있는 FOSSLight Hub(시연)| 
 |12:00 ~ 13:00|점심 시간| 
