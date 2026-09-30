@@ -48,7 +48,7 @@ hide_last_modified: true
 
 
 
-![제6회FOSSLight_커뮤니티데이_포스터_draft](../../assets/img/news/261028/26_fl_day_poster.png)
+![제6회FOSSLight_커뮤니티데이_포스터_draft](../../assets/img/news/261028/6th_foss_comm_poster.png)
 
 ### 장소 후원 : Nipa 정보통신산업진흥원, OpenUp 
 
