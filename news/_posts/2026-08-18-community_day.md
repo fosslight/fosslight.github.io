@@ -17,7 +17,7 @@ hide_last_modified: true
 <a href="https://forms.gle/DM2dnKJanE2yVbBH9" target="_blank">사전 등록 바로가기 (클릭)</a>
 
 ### FAQ 질문 등록 링크
-10/20까지 이번 행사에서 듣고 싶은 내용이나 질문이 있다면, 아래 링크를 통해 등록해주세요. 행사 당일 FAQ세션을 통해 답변해드리겠습니다.   
+10/20까지 이번 행사에서 듣고 싶은 내용이나 질문이 있다면, 아래 링크를 통해 등록해주세요. 행사 당일 '무엇이든 물어보세요' 세션을 통해 답변해드리겠습니다.   
 <a href="https://forms.gle/KjuSSSTxinjVjLJk7" target="_blank">사전 질문 등록하기 (클릭)</a>
 
 
