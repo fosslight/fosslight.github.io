@@ -37,12 +37,12 @@ hide_last_modified: true
 |13:20 ~ 13:40|예쁘고 쉬운 UI를 입힌 FOSSLight Scanner| 
 |13:40 ~ 14:00|변화하는 SBOM 규제와 트랜드| 
 |14:00 ~ 14:15|Coffee Break| 
-|14:15 ~ 14:55|FOSSLight Hub의 강화된 보안 취약점 검출 능력|
-|14:55 ~ 15:25|FOSSLight 사용자 경험을 공유합니다|
-|15:25 ~ 15:40|Coffee Break|
-|15:40 ~ 16:00|무엇이든 물어보세요, FOSSLight Scanner 편|
-|16:00 ~ 16:20|무엇이든 물어보세요, FOSSLight Hub 편|
-|16:20 ~ 16:50|FOSSLight Enterprise 를 경험해보세요|
+|14:15 ~ 14:35|FOSSLight Hub의 강화된 보안 취약점 검출 능력|
+|14:35 ~ 15:05|FOSSLight 사용자 경험을 공유합니다|
+|15:05 ~ 15:20|Coffee Break|
+|15:20 ~ 15:40|무엇이든 물어보세요, FOSSLight Scanner 편|
+|15:40 ~ 16:00|무엇이든 물어보세요, FOSSLight Hub 편|
+|16:00 ~ 16:30|FOSSLight Enterprise 를 경험해보세요|
 
 <div class="datatable-end"></div>
 
