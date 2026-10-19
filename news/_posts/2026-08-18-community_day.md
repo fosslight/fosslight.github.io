@@ -7,17 +7,22 @@ hide_last_modified: true
 ---
 
 ## 제6회 FOSSLight Community Day 예고
+
+<img src="../../assets/img/news/261028/halloween.png" alt="halloween" width="60%" />
+
+
+### 주요 안내
  - 일시 : 2026.10.28 수요일
  - 장소 : 서울 서초구 서초대로40길 83 우제빌딩 2층 
  - 점심 : 제공 
  - 오전/오후 세션 선택적 참석 가능
  
 ### 사전 등록 링크
-10/15까지 사전등록 가능합니다. 사전 등록하시어 참가 선물과 점심 샌드위치 신청하세요🎁.       
+사전 등록하시어 참가 선물과 점심 샌드위치 신청하세요🎁.       
 <a href="https://forms.gle/DM2dnKJanE2yVbBH9" target="_blank">사전 등록 바로가기 (클릭)</a>
 
 ### FAQ 질문 등록 링크
-10/20까지 이번 행사에서 듣고 싶은 내용이나 질문이 있다면, 아래 링크를 통해 등록해주세요. 행사 당일 '무엇이든 물어보세요' 세션을 통해 답변해드리겠습니다.   
+이번 행사에서 듣고 싶은 내용이나 질문이 있다면, 아래 링크를 통해 등록해주세요. 행사 당일 '무엇이든 물어보세요' 세션을 통해 답변해드리겠습니다.   
 <a href="https://forms.gle/KjuSSSTxinjVjLJk7" target="_blank">사전 질문 등록하기 (클릭)</a>
 
 
@@ -38,17 +43,17 @@ hide_last_modified: true
 |13:40 ~ 14:00|변화하는 SBOM 규제와 트랜드| 
 |14:00 ~ 14:15|Coffee Break| 
 |14:15 ~ 14:35|FOSSLight Hub의 강화된 보안 취약점 검출 능력|
-|14:35 ~ 15:05|FOSSLight 사용자 경험을 공유합니다|
-|15:05 ~ 15:20|Coffee Break|
-|15:20 ~ 15:40|무엇이든 물어보세요, FOSSLight Scanner 편|
-|15:40 ~ 16:00|무엇이든 물어보세요, FOSSLight Hub 편|
-|16:00 ~ 16:30|FOSSLight Enterprise 를 경험해보세요|
+|14:35 ~ 14:55|FOSSLight 사용자 경험을 공유합니다|
+|14:55 ~ 15:10|Coffee Break|
+|15:10 ~ 15:30|무엇이든 물어보세요, FOSSLight Scanner 편|
+|15:30 ~ 15:50|무엇이든 물어보세요, FOSSLight Hub 편|
+|15:50 ~ 16:20|FOSSLight Enterprise 를 경험해보세요|
 
 <div class="datatable-end"></div>
 
 
 
-![제6회FOSSLight_커뮤니티데이_포스터_draft](../../assets/img/news/261028/6th_foss_comm_poster.png)
+<img src="../../assets/img/news/261028/6th_foss_comm_poster.png" alt="제6회FOSSLight_커뮤니티데이_포스터_draft" width="60%" />
 
 ### 장소 후원 : Nipa 정보통신산업진흥원, OpenUp 
 
