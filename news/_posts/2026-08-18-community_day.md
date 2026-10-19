@@ -8,7 +8,7 @@ hide_last_modified: true
 
 ## 제6회 FOSSLight Community Day 예고
 
-<img src="../../assets/img/news/261028/halloween.png" alt="halloween" width="60%" />
+<img src="/assets/img/news/261028/halloween.png" alt="halloween" width="60%" />
 
 
 ### 주요 안내
@@ -53,7 +53,7 @@ hide_last_modified: true
 
 
 
-<img src="../../assets/img/news/261028/6th_foss_comm_poster.png" alt="제6회FOSSLight_커뮤니티데이_포스터_draft" width="60%" />
+<img src="/assets/img/news/261028/6th_foss_comm_poster.png" alt="제6회FOSSLight_커뮤니티데이_포스터_draft" width="60%" />
 
 ### 장소 후원 : Nipa 정보통신산업진흥원, OpenUp 
 
