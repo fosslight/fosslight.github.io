@@ -32,10 +32,10 @@ FOSSLight Scanner와 Hub에 대한 질의응답과 FOSSLight Enterprise 소개�
 ![FOSSLight Scanner 또 Update 되었어요 발표 현장](../../assets/img/news/2510/20261028_130104.jpg)
 ![예쁘고 쉬운 UI를 입힌 FOSSLight Scanner 발표 현장](../../assets/img/news/2510/20261028_132049.jpg)
 ![변화하는 SBOM 규제와 트렌드 발표 현장](../../assets/img/news/2510/20261028_134924.jpg)
-![FOSSLight Hub의 강화된 보안 취약점 검출 능력 발표 현장](/assets/img/news/2510/20261028_142746.jpg)
+![FOSSLight Hub의 강화된 보안 취약점 검출 능력 발표 현장](../../assets/img/news/2510/20261028_142746.jpg)
 ![FOSSLight 사용자 경험을 공유합니다 발표 현장](../../assets/img/news/2510/20261028_150238.jpg)
 ![무엇이든 물어보세요, FOSSLight Hub 편 현장](../../assets/img/news/2510/20261028_1.jpg)
-![FOSSLight Enterprise를 경험해보세요 발표 현장](/assets/img/news/2510/20261028_161341.jpg)
+![FOSSLight Enterprise를 경험해보세요 발표 현장](../../assets/img/news/2510/20261028_161341.jpg)
 
 
 ### 장소 후원 : Nipa 정보통신산업진흥원, OpenUp 
